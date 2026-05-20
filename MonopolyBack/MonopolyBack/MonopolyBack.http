@@ -1,0 +1,6 @@
+@MonopolyBack_HostAddress = http://localhost:5081
+
+GET {{MonopolyBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
